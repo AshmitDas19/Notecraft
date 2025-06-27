@@ -64,6 +64,7 @@ Notecraft/
 │   ├── FontMenu.java
 │   └── NotecraftGUI.java
 ├── .gitignore
+├── LICENSE
 ├── Notecraft.iml
 └── README.md
 ```
