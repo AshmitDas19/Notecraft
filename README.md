@@ -46,7 +46,7 @@
 
 2. **Compile the project**
    ```bash
-   javac -cp "lib/JTattoo-1.6.13.jar" src/*.java
+   javac -cp "lib/JTattoo-1.6.13.jar" src/App.java
    ```
 
 3. **Run the application**
