@@ -14,6 +14,19 @@
 
 ---
 
+## 📸 Screenshots
+
+![Notecraft Main Window](ss1.png)  
+*Main interface of Notecraft*
+
+![File options](ss2.png)  
+*Basic functions for file*
+
+![Font editing panel](ss3.png)
+*Functions for font  editing*
+
+---
+
 ## 🚀 Getting Started
 
 ### Requirements
