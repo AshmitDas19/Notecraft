@@ -61,29 +61,6 @@ java -cp "lib/JTattoo-1.6.13.jar;src" App
 
 ---
 
-## 📁 Project Structure
-
-```
-Notecraft/
-├── .idea/
-│   ├── .gitignore
-│   ├── misc.xml
-│   ├── modules.xml
-│   └── vcs.xml
-├── lib/
-│   └── JTattoo-1.6.13.jar
-├── src/
-│   ├── App.java
-│   ├── FontMenu.java
-│   └── NotecraftGUI.java
-├── .gitignore
-├── LICENSE
-├── Notecraft.iml
-└── README.md
-```
-
----
-
 ## ❓ FAQ
 
 **Q: Can I open and save text files?**  
